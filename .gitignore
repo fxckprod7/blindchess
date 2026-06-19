@@ -1,7 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,flask,react,git,visualstudiocode,django,venv,node
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,flask,react,git,visualstudiocode,django,venv,node
 
-### Custom ###
+### General ###
 archive/
 .vscode/
 
